@@ -4,6 +4,6 @@ Halászbástya;?Magyarország;Budapest
 Hősök tere;Magyarország;Budapest
 Tower Bridge;Egyesült királyság;London
 Trafalgar tér;Egyesült királyság;London
-Hős utcai LIDL;Magyarország;Budapest
+Hősök tere;Magyarország;Budapest
 
 
